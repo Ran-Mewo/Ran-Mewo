@@ -1,3 +1,5 @@
+> I didn't want to create this README.md but I was forced to by GitHub when applying for the student pack... qwq
+
 - I am currently interested in AI
 - I have made Minecraft mods, my most popular being [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
 - I know Rust, Java (and basically all JVM-based languages), JavaScript (and TypeScript), C# and a ton more that I can work with
