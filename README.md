@@ -30,5 +30,6 @@
 ![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ran-mewo&include_all_commits=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/Vendicated/Vendicated/assets/45497981/b20cacf7-6dac-4281-a29d-5d7a8ed31ee0');]{x0000}$}
-\ce{$\unicode[goombafont; color:red; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
+\ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/Vendicated/Vendicated/assets/45497981/b20cacf7-6dac-4281-a29d-5d7a8ed31ee0');]{x0000}$}
+\ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
+```
