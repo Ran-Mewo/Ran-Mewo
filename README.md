@@ -31,7 +31,7 @@
 ![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ran-mewo&include_all_commits=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true)\
 ![Ran-Mewo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ran-Mewo&theme=tokyonight&hide_border=true)\
 ![Ran-Mewo's Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ran-Mewo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)\
-![kots](https://counter.seku.su/cmoe?name=Ran-Mewo&theme=r34)\
+![kots](https://counter.seku.su/cmoe?name=Ran-Mewo&theme=r34)
 
 ```math
 \ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/Vendicated/Vendicated/assets/45497981/b20cacf7-6dac-4281-a29d-5d7a8ed31ee0');]{x0000}$}
